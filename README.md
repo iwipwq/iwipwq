@@ -38,7 +38,7 @@
 
 
 ### UX/UI & MoGraph  
-<div align="right">  
+<div align="left">  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
