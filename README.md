@@ -1,21 +1,19 @@
-- 👋 Hi, I’m @iwipwq
-- 👀 I’m interested in three.js
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... iwipwq@gmail.com
+
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/iwipwq/iwipwq/blob/main/myFiles/cough.gif" align="center" style="width: 50%" />
 </div>  
   
 
 ### <div align="center">I'm Munhong, frontend developer</div>  
   
-
-- 🔭 My Devlog [velog](https://velog.io/@mhnormal)  
-  
-
-- 🌱 I’m currently learning JavaScript & React  
+- 👋 Hi, I’m @iwipwq
+- 👀 I’m interested in three.js
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on ... everything
+- 📫 How to reach me ... iwipwq@gmail.com
+- 🔭 Check out my Devlog [velog](https://velog.io/@mhnormal)  
+ 
   
 
 <br/>  
@@ -53,11 +51,11 @@
 
 
 
-### VR  
+<!-- ### VR  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-</div>
+</div> -->
 
 </td></tr></table>  
 
