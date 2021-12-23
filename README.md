@@ -47,18 +47,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
 </div>
 
-</td><td valign="top" width="100%">
+</td><td valign="bottom" width="100%">
 
 
 
-<!-- ### VR  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-</div> -->
-
-<!-- </td> -->
-  </tr></table>  
+</td></tr></table>  
 
 <br/>  
 
