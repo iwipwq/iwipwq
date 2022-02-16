@@ -9,7 +9,7 @@
   
 - 👋 Hi, I’m @iwipwq
 - 👀 I’m interested in WebGL
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ... everything
 - 📫 How to reach me ... iwipwq@gmail.com
 - 🔭 Check out my Devlog [velog](https://velog.io/@mhnormal)  
